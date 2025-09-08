@@ -1,0 +1,1 @@
+A simple AI-powered resume builder that helps users create professional resumes quickly.
