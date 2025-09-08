@@ -5,3 +5,6 @@ python-docx
 reportlab
 pydantic
 python-dotenv
+httpx
+python-multipart
+gunicorn
