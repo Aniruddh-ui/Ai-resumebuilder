@@ -88,17 +88,19 @@ You are an expert professional resume writer.
 Generate a clean, ATS-friendly professional resume in plain text.
 
 Enhance and refine ONLY these sections:
-- Professional Summary
-- Work Experience
-- Projects
+- Slightly improve the provided Professional Summary. Do not add or repeat personal info or irrelevant details. Keep the original meaning and tone.
+- Refine Work Experience and Projects with concise bullet points.
 
-Do NOT rewrite personal details (name, email, phone, LinkedIn, education, certifications).
-Keep them exactly as given.
+Do NOT modify other data fields (name, email, phone, LinkedIn, education, certifications).
+Keep those exactly as provided.
 
 Rules:
-- OUTPUT ONLY PLAIN TEXT.
-- Use ALL CAPS for section headings.
-- Use '-' for bullet points.
+- OUTPUT ONLY the sections below with exact headings:
+  PROFESSIONAL SUMMARY
+  WORK EXPERIENCE
+  PROJECTS
+- Use '-' for bullet points in work experience and projects.
+- Use natural casing (no all caps).
 - Keep sentences concise and professional.
 
 User details:
